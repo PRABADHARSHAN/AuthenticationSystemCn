@@ -33,7 +33,7 @@ Click [here](http://3.86.114.75:8004/) to go Open app
 ## Installation
 
 Repo link 
-https://github.com/raj0811/AuthenticationSystemCn.git
+https://github.com/PRABADHARSHAN/AuthenticationSystemCn
 
 
 > ***Install project with npm***       
